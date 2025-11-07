@@ -49,5 +49,5 @@ I’m especially interested in automating infrastructure and setting up deployme
 
 ### 💬 About Me
 
-📘 Blog: [Velog.io/@shinyang](https://velog.io/@ysheep0906)  
+📘 Blog: [Velog.io/@ysheep0906](https://velog.io/@ysheep0906)  
 📫 Contact: tlsgml8847@gmail.com  
