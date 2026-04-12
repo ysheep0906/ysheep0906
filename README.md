@@ -31,12 +31,6 @@ I’m especially interested in automating infrastructure and setting up deployme
 ### 🎓 Certification
 🏅 **AWS Certified Solutions Architect – Associate (SAA-C03)**  
 
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinyang&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyang&layout=compact&theme=tokyonight)
 <!--
 ---
 
